@@ -1,0 +1,14 @@
+C:\Users\90506\source\repos\ReferenceTypes\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+C:\Users\90506\source\repos\ReferenceTypes\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90506\source\repos\ReferenceTypes\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\90506\source\repos\ReferenceTypes\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\90506\source\repos\ReferenceTypes\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\90506\source\repos\ReferenceTypes\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\90506\source\repos\ReferenceTypes\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\90506\source\repos\ReferenceTypes\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\90506\source\repos\ReferenceTypes\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\90506\source\repos\ReferenceTypes\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\90506\source\repos\ReferenceTypes\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\90506\source\repos\ReferenceTypes\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\90506\source\repos\ReferenceTypes\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\90506\source\repos\ReferenceTypes\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
